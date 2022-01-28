@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SplashAnimationImage</string>
+    <string name="title_activity_nav_graph">NavGraph</string>
+    <string name="title_activity_animated_splash_screen">AnimatedSplashScreen</string>
+    <string name="title_activity_animated_shimmer">AnimatedShimmer</string>
+</resources>
